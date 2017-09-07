@@ -1,0 +1,15 @@
+https://www.typescriptlang.org/play/index.html
+http://embed.plnkr.co/ibcG6bERzx9w7XwTzxlc/
+http://talkerscode.com/webtricks/add-edit-and-delete-rows-from-table-dynamically-using-javascript.php
+https://developer.mozilla.org/en-US/docs/web/javascript/reference/statements/export
+http://sass-lang.com/install
+https://www.npmjs.com/
+https://www.npmjs.com/package/nginx
+https://cli.angular.io/
+https://github.com/angular/angular-cli
+https://webpack.js.org/
+http://browserify.org/
+https://codebeautify.org/
+https://angular.io/resources
+https://angular.io/api
+
