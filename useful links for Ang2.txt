@@ -12,4 +12,8 @@ http://browserify.org/
 https://codebeautify.org/
 https://angular.io/resources
 https://angular.io/api
+https://angular.io/guide/setup
+http://plnkr.co/edit/QWxD0DIZi6QiISafwfgu?p=preview
+https://plnkr.co/edit/kBHV6AximaHAC26kYEOA?p=info
+
 
